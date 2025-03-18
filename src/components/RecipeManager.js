@@ -4,7 +4,7 @@ import "./RecipeManager.css";
 
 // const API_URL = "https://cloud-app-backend-1.onrender.com/api/recipes/";
 
-const API_URL = "http://localhost:3003/api/recipes";
+const API_URL = "https://cloud-app-backend-1.onrender.com/api/recipes";
 
 const RecipeManager = () => {
   const [name, setName] = useState("");
